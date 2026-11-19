@@ -148,7 +148,7 @@ export default function App() {
           </div>
           <div className="profile">
             <span className="avatar">A</span>
-            <span><b>Azizbek</b><small>Shaxsiy hisob</small></span>
+            <span><b>Alisher</b><small>Shaxsiy hisob</small></span>
           </div>
         </div>
       </aside>
@@ -163,7 +163,7 @@ export default function App() {
           <section className="welcome">
             <div>
               <div className="date-label">{dateText}</div>
-              <h1>Xayrli kun, Azizbek <span>✦</span></h1>
+              <h1>Xayrli kun, Alisher <span>✦</span></h1>
               <p>Rejalaringni tartibga sol, maqsadlaringga yaqinlash.</p>
             </div>
             <button className="primary-button" onClick={() => navigate("Vazifalar", tasksRef)}>
